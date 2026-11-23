@@ -1,0 +1,3 @@
+# Core modules have no required dependencies.
+# Optional: install only when driving a real browser.
+# playwright>=1.40
